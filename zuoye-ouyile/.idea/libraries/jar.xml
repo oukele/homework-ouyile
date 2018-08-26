@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="常用jar包">
+    <CLASSES>
+      <root url="jar://D:/常用jar包/gson-2.8.5.jar!/" />
+      <root url="jar://D:/常用jar包/sitemesh-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
